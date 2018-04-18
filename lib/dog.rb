@@ -1,2 +1,2 @@
-def dog
+def dog=(dog)
 end
